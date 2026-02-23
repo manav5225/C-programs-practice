@@ -1,4 +1,5 @@
 //=============================================student marks sheet else if grade A B C======================================
+#include<stdio.h>
 int main(){
     int rollNO;
     char sname[10];
