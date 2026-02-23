@@ -1,4 +1,5 @@
 //======================================EVEN OR ODD--Number is negative nested if ===========================================
+#include<stdio.h>
 int main(){
     int num;
     printf("Enter a Number\n");
